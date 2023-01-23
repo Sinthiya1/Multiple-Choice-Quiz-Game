@@ -1,4 +1,6 @@
-## User Story
+## Multiple-Coice-Quiz-Game
+
+### User Story
 ```
 As a coding boot camp student
 I want to take a timed quiz on JavaScript fundamentals that stores high scores
