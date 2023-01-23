@@ -1,8 +1,8 @@
 ## User Story
 ```
-AS A coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
+As a coding boot camp student
+I want to take a timed quiz on JavaScript fundamentals that stores high scores
+So that I can gauge my progress compared to my peers
 ```
 
 ## Acceptance Criteria
