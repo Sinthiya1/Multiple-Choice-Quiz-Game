@@ -7,7 +7,7 @@ I want to take a timed quiz on JavaScript fundamentals that stores high scores
 So that I can gauge my progress compared to my peers
 ```
 
-## Acceptance Criteria
+### Acceptance Criteria
 
 Create a code quiz that contains the following requirements:
 
@@ -19,7 +19,7 @@ Create a code quiz that contains the following requirements:
   * The quiz should end when all questions are answered or the timer reaches 0.
   * When the game ends, it should display their score and give the user the ability to save their initials and their score
   
-## Mock-Up
+### Mock-Up
 
 The following animation demonstrates the application functionality:
 
